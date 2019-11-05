@@ -34,9 +34,11 @@ Traceback (most recent call last):
     armarPedido(restElegido, restaurantes, pedido, pedidos, user, rappitenderos)
   File "tp rappi.py", line 176, in armarPedido
     restaurantes[restElegido] = [aux[0], aux[1], aux[2], aux[3], int(aux[4]) + 1, int(aux[5]) + preciototal]
-IndexError: list index out of range```
+IndexError: list index out of range
+```
 
 ** Pedidos automáticos no funciona **
+
 
 ```
 Seleccione una opción:
