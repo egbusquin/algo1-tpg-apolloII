@@ -1,4 +1,4 @@
-# algo1-tpg-apolloll
+# algo1-tpg-apolloII
 
 Primero quiero remarcar que en ningún momento el grupo se acercó a hablar conmigo excepto la primera clase. 
 Esto derivó en que no se haga ningún tipo de validación ni consulta durante el desarrollo.
